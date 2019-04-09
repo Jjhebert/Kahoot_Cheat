@@ -1,5 +1,5 @@
 #Email
-email = ""
+email = "jayd205@ledyard.net"
 
 #Password
-password = ""
+password = "03102004"
